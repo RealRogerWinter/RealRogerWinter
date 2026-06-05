@@ -27,10 +27,10 @@ Research, generate, and optimize content across languages from one workspace. It
 
 ## Recently shipped
 <!-- RECENT:START -->
-- **[sheet-llm](https://github.com/RealRogerWinter/sheet-llm)** · Publisher-grade sheet music notation editor with native LLM support and chatbot-like conversation interface. _(pushed Jun 4, 2026)_
-- **[rwinter-dev-portfolio](https://github.com/RealRogerWinter/rwinter-dev-portfolio)** · Roger Winter, personal portfolio (rogerwinter.dev). Static site, Dockerized, deployed via CircleCI behind Cloudflare+Caddy. _(pushed Jun 4, 2026)_
+- **[sheet-llm](https://github.com/RealRogerWinter/sheet-llm)** · Publisher-grade sheet music notation editor with native LLM support and chatbot-like conversation interface. _(pushed Jun 5, 2026)_
+- **[onestreamer](https://github.com/RealRogerWinter/onestreamer)** · Self-hosted live-streaming platform with viewer takeover, in-stream economy, AI bots, and real-time effects. _(pushed Jun 5, 2026)_
+- **[rwinter-dev-portfolio](https://github.com/RealRogerWinter/rwinter-dev-portfolio)** · Roger Winter, personal portfolio (rogerwinter.dev). Static site, Dockerized, deployed via CircleCI behind Cloudflare+Caddy. _(pushed Jun 5, 2026)_
 - **[price-games-public](https://github.com/RealRogerWinter/price-games-public)** · Price Games, a multiplayer web game where you guess Amazon product prices. Public mirror. _(pushed Jun 4, 2026)_
-- **[onestreamer](https://github.com/RealRogerWinter/onestreamer)** · Self-hosted live-streaming platform with viewer takeover, in-stream economy, AI bots, and real-time effects. _(pushed Jun 4, 2026)_
 - **[multilingual-seo](https://github.com/RealRogerWinter/multilingual-seo)** · Agentic multilingual SEO tool: URL -> keyword opportunities ranked by SERP volume in target locales _(pushed Jun 4, 2026)_
 <!-- RECENT:END -->
 
