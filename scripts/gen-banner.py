@@ -94,7 +94,7 @@ def render(out_path, name_color, tag_color):
     nb = draw.textbbox((PAD, name_y), name, font=name_font)
 
     # Tagline
-    tagline = "AI-native developer"
+    tagline = "Developer Advocate"
     draw.text((PAD, nb[3] + 16), tagline, font=tag_font, fill=tag_color)
 
     img.save(out_path)
