@@ -25,13 +25,13 @@ I've produced technical content for CircleCI, Microsoft, Meta, Red Hat, Docker, 
 **[sheet-llm](https://sheetllm.com)** · *in development*
 An open-source music notation editor you talk to. An LLM orchestrator routes each request by complexity and cost, server-side gates confirm it changed only what you asked, and a four-tier eval suite runs in CI. Next.js, React, TypeScript.
 
-**[OneStreamer](https://onestreamer.live)** · *live*
+**OneStreamer** · *temporarily offline*
 A browser competitive-streaming platform built around king-of-the-hill: one person holds the broadcast, AI chatbots and real viewers share the room, and anyone can take over. MediaSoup and WebRTC, TURN, mobile NAT traversal.
 
 **[Price Games](https://price.games)** · *live*
 A free browser price-guessing game. TypeScript and React on a Node monorepo, test-driven, built with AI coding agents running in parallel via git worktrees. It grew to about 100 daily players, self-hosted on a Linux box at home.
 
-**[Pricey](https://twitch.tv/pricey)** · *live on Twitch*
+**Pricey** · *stream currently offline*
 A 24/7 AI streamer that plays Price Games on a custom neural net (no framework), generated and tested with Claude Code, with simulated moods that change how it plays.
 
 **[multilingual-seo](https://github.com/RealRogerWinter/multilingual-seo)** · *in development*
