@@ -39,7 +39,7 @@ Research, generate, and optimize content across languages from one workspace. It
 
 ## Recently shipped
 <!-- RECENT:START -->
-- **[price-games-public](https://github.com/RealRogerWinter/price-games-public)** · Price Games, a multiplayer web game where you guess Amazon product prices. Public mirror. _(pushed Sep 4, 2026)_
+- **[price-games-public](https://github.com/RealRogerWinter/price-games-public)** · Price Games, a multiplayer web game where you guess Amazon product prices. Public mirror. _(pushed Sep 5, 2026)_
 - **[onestreamer](https://github.com/RealRogerWinter/onestreamer)** · Self-hosted live-streaming platform with viewer takeover, in-stream economy, AI bots, and real-time effects. _(pushed Sep 3, 2026)_
 - **[sheet-llm](https://github.com/RealRogerWinter/sheet-llm)** · Publisher-grade sheet music notation editor with native LLM support and chatbot-like conversation interface. _(pushed Jun 23, 2026)_
 - **[algebra-1-tutor](https://github.com/RealRogerWinter/algebra-1-tutor)** · Interactive Algebra 1 tutor as a Claude Agent Skill for Claude.ai / the Claude app _(pushed Jun 23, 2026)_
